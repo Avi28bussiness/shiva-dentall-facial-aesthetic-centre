@@ -13,6 +13,13 @@
   }
 }
 
+@media (min-width: 768px) {
+  .navbar-brand {
+    font-size: 1.5rem !important;
+  }
+}
+
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;

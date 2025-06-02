@@ -1,0 +1,186 @@
+{
+  "aestheticServices": [
+    {
+      "name": "Hydra Therapy / Hydra Facial",
+      "description": "A deep cleansing, hydrating, and rejuvenating treatment.",
+      "customerImage": "/images/HydraTherapy.jpeg",
+      "customerName": "Ritika Sharma",
+      "feedback": "Loved the glow it gave to my skin!",
+      "price": 3500,
+      "details": "Includes cleansing, exfoliation, extraction, hydration, and antioxidant protection."
+    },
+    {
+      "name": "Оху Facial",
+      "description": "Description for Оху facial treatment.",
+      "customerImage": "/images/oxy_gaia.jpg",
+      "customerName": "Customer Name",
+      "feedback": "Amazing results!",
+      "price": 3000,
+      "details": "Oxygen infusion facial therapy that revitalizes skin cells and promotes healing."
+    },
+    {
+      "name": "Photo Facial",
+      "description": "Light-based treatment to improve skin tone and texture.",
+      "customerImage": "/images/photo_facial.webp",
+      "customerName": "Customer Name",
+      "feedback": "Skin looks radiant!",
+      "price": 4000,
+      "details": "Uses IPL light therapy to reduce redness, pigmentation, and improve skin clarity."
+    },
+    {
+      "name": "Carbon Facial",
+      "description": "Non-invasive treatment for oily skin, blackheads, enlarged pores.",
+      "customerImage": "/images/carbon1.jpeg",
+      "customerName": "Megha Verma",
+      "feedback": "My skin feels refreshed and clean.",
+      "price": 3200,
+      "details": "Laser carbon peel that exfoliates and deep cleans pores for clearer skin."
+    },
+    {
+      "name": "Chemical Peels",
+      "description": "Exfoliating treatment to remove dead skin and improve texture.",
+      "customerImage": "/images/chemical_peels.jpeg",
+      "customerName": "Customer Name",
+      "feedback": "My skin feels smooth and bright!",
+      "price": 2800,
+      "details": "Application of chemical solutions to peel off dead skin layers and enhance renewal."
+    },
+    {
+      "name": "Derma Abrasion",
+      "description": "Mechanical exfoliation to reduce scars and pigmentation.",
+      "customerImage": "/images/derma_abrasion.jpeg",
+      "customerName": "Customer Name",
+      "feedback": "Visible improvement in skin texture.",
+      "price": 3500,
+      "details": "Uses a rotating device to remove damaged outer skin and encourage new growth."
+    },
+    {
+      "name": "Permanent Hair Removal",
+      "description": "Long-lasting solution to unwanted hair using laser technology.",
+      "customerImage": "/images/hair_removal.jpg",
+      "customerName": "Customer Name",
+      "feedback": "Hair growth has reduced significantly.",
+      "price": 4500,
+      "details": "Laser treatments targeting hair follicles for permanent hair reduction."
+    },
+    {
+      "name": "Platelet PRP Treatment",
+      "description": "Platelet-rich plasma therapy for skin rejuvenation and healing.",
+      "customerImage": "/images/prp_treatment.jpeg",
+      "customerName": "Customer Name",
+      "feedback": "Skin looks youthful and glowing.",
+      "price": 5000,
+      "details": "Injection of plasma rich in growth factors to stimulate collagen production."
+    },
+    {
+      "name": "Melasma / Thai Removal",
+      "description": "Treatment for pigmentation and discoloration of the skin.",
+      "customerImage": "/images/melasma.jpeg",
+      "customerName": "Customer Name",
+      "feedback": "My skin tone has evened out.",
+      "price": 3700,
+      "details": "Laser and topical treatments to reduce melasma and pigmentation spots."
+    },
+    {
+      "name": "Scar Correction",
+      "description": "Procedures aimed at reducing the appearance of scars.",
+      "customerImage": "/images/scar_correction.webp",
+      "customerName": "Customer Name",
+      "feedback": "Scars are less visible now.",
+      "price": 4000,
+      "details": "Combination of laser therapy and microneedling to smooth scarred skin."
+    },
+    {
+      "name": "Vitiligo (Saked Daag) Treatment",
+      "description": "Specialized treatment to manage vitiligo skin condition.",
+      "customerImage": "/images/vitiligo.jpeg",
+      "customerName": "Customer Name",
+      "feedback": "Treatment has helped improve my skin.",
+      "price": 6000,
+      "details": "Light therapy and topical treatments to restore pigmentation."
+    },
+    {
+      "name": "Vampire Facial",
+      "description": "PRP facial treatment to stimulate collagen and skin renewal.",
+      "customerImage": "/images/vampire_facial.jpg",
+      "customerName": "Customer Name",
+      "feedback": "My skin feels rejuvenated.",
+      "price": 5500,
+      "details": "Combines microneedling with PRP injections to boost skin healing and glow."
+    },
+    {
+      "name": "Permanent Tattoo Removal",
+      "description": "Laser treatment to remove unwanted tattoos safely.",
+      "customerImage": "/images/tattoo_removal.jpg",
+      "customerName": "Customer Name",
+      "feedback": "Tattoo fading visibly after sessions.",
+      "price": 7000,
+      "details": "Q-switched laser technology breaks down tattoo pigments safely."
+    }
+  ],
+  "dentalServices": [
+    {
+      "name": "Root Canal Treatment (RCT)",
+      "description": "Painless and effective solution for infected teeth.",
+      "customerImage": "/images/rct1.jpg",
+      "customerName": "Rahul Mehta",
+      "feedback": "I was scared, but the treatment was super smooth!",
+      "price": 8000,
+      "details": "Removal of infected pulp and sealing to save natural tooth."
+    },
+    {
+      "name": "MF",
+      "description": "Maxillofacial treatments for facial injuries and corrections.",
+      "customerImage": "/images/mf.webp",
+      "customerName": "Customer Name",
+      "feedback": "Excellent care and treatment.",
+      "price": 15000,
+      "details": "Surgical procedures for facial trauma, deformities, and reconstruction."
+    },
+    {
+      "name": "Denther",
+      "description": "General dental care and restorative treatments.",
+      "customerImage": "/images/denther.avif",
+      "customerName": "Customer Name",
+      "feedback": "Very professional and gentle.",
+      "price": 5000,
+      "details": "Includes fillings, crowns, bridges and other restorative procedures."
+    },
+    {
+      "name": "Crown & Bridge",
+      "description": "Restorative dental solutions for damaged or missing teeth.",
+      "customerImage": "/images/crown_bridge.jpg",
+      "customerName": "Customer Name",
+      "feedback": "Looks and feels natural.",
+      "price": 10000,
+      "details": "Custom-made crowns and bridges to restore function and appearance."
+    },
+    {
+      "name": "Implants",
+      "description": "Permanent solution for missing teeth with natural look.",
+      "customerImage": "/images/implant1.jpg",
+      "customerName": "Priya Singh",
+      "feedback": "Feels like I have my real teeth back!",
+      "price": 25000,
+      "details": "Titanium implants surgically placed to replace missing teeth permanently."
+    },
+    {
+      "name": "Ortho Treatment",
+      "description": "Orthodontic treatments to align and straighten teeth.",
+      "customerImage": "/images/ortho.jpg",
+      "customerName": "Customer Name",
+      "feedback": "My smile has improved tremendously.",
+      "price": 20000,
+      "details": "Braces and aligners to correct teeth alignment and bite."
+    },
+    {
+      "name": "Oral Prophylaxis",
+      "description": "Professional teeth cleaning for oral hygiene maintenance.",
+      "customerImage": "/images/oral_prophy.jpg",
+      "customerName": "Customer Name",
+      "feedback": "Teeth feel clean and fresh.",
+      "price": 1500,
+      "details": "Scaling and polishing to remove plaque and tartar."
+    }
+  ]
+}

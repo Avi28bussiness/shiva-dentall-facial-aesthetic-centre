@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Radhika M.",
+    "photo": "/images/teeth.jpeg",
+    "feedback": "Amazing experience! The staff was friendly and Dr. Srivastava is the best!",
+    "treatment": "Teeth Whitening"
+  },
+  {
+    "name": "Ranu K.",
+    "photo": "/images/face.jpeg",
+    "feedback": "Very professional and clean setup. My skin feels fantastic after the facial.",
+    "treatment": "Facial Aesthetic Treatment"
+  },
+{
+  "name": "Anjali T.",
+  "photo": "/images/filler.jpeg",
+  "feedback": "I’m so happy with the natural results! The lip filler treatment was smooth and painless.",
+  "treatment": "Lip Filler"
+}
+
+]
