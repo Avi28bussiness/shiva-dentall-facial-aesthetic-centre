@@ -26,8 +26,8 @@ function DentalServices() {
   const closeModal = () => setSelectedService(null);
 
   return (
-    <div className="container mt-5">
-      <h2 className="mb-4 text-primary">Dental Services</h2>
+    <div className="container pt-3 mt-5">
+      <h2 className="mb-4 mt-4 text-primary">Dental Services</h2>
 
       {loading ? (
         <div className="text-center py-5">

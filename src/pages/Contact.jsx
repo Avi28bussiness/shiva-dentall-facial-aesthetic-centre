@@ -2,7 +2,7 @@ import React from 'react';
 
 function Contact() {
   return (
-    <div className="container mt-5 mb-5">
+    <div className="container pt-3 mt-5 mb-5">
       <div className="row justify-content-center">
         <div className="col-md-10">
           <div className="card shadow rounded border-0">

@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react';
 function AestheticServices() {
   const [services, setServices] = useState([]);
   const [loading, setLoading] = useState(true);
-  const [selectedService, setSelectedService] = useState(null); // For modal
+  const [selectedService, setSelectedService] = useState(null);
 
   useEffect(() => {
     fetch('/data/services.json')
@@ -27,8 +27,8 @@ function AestheticServices() {
   const closeModal = () => setSelectedService(null);
 
   return (
-    <div className="container mt-5">
-      <h2 className="mb-4 text-primary">Aesthetic Services</h2>
+    <div className="container pt-3 mt-5">
+      <h2 className="mb-4 mt-4 text-primary">Aesthetic Services</h2>
 
       {loading ? (
         <div className="text-center py-5">

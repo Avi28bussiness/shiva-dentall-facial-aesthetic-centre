@@ -11,7 +11,7 @@ function Header() {
   };
 
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
+    <nav className="navbar navbar-expand-lg navbar-dark bg-primary fixed-top ">
       <div className="container d-flex justify-content-between align-items-center">
         <NavLink
           className="navbar-brand text-white fw-bold m-0"

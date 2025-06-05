@@ -3,7 +3,7 @@
     "name": "Radhika M.",
     "photo": "/images/teeth.jpeg",
     "feedback": "Amazing experience! The staff was friendly and Dr. Srivastava is the best!",
-    "treatment": "Teeth Whitening"
+    "treatment": "Ortho Treatment"
   },
   {
     "name": "Ranu K.",
@@ -16,6 +16,12 @@
   "photo": "/images/filler.jpeg",
   "feedback": "I’m so happy with the natural results! The lip filler treatment was smooth and painless.",
   "treatment": "Lip Filler"
-}
+},
+{
+    "name": "Sheema ",
+    "photo": "/images/teethPlant.jpeg",
+    "feedback": "Amazing experience! The staff was friendly and Dr. Srivastava is the best!",
+    "treatment": "Crown & Bridge"
+  }
 
 ]
